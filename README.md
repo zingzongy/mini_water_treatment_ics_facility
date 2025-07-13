@@ -26,6 +26,7 @@ The facility includes three zones:
 - Manual Transfer Switch (optional)
 - UPS or 24VDC panel for PLC/SCADA
 - SCADA fiber stub
+>-This design represents a simplified water treatment process for learning purposes. In full-scale wastewater treatment, additional steps such as clarification, biological treatment, and disinfection would be required to meet regulatory standards.
 
 ### 3. Clearwell & Distribution (MCC-3)
 - Three booster pumps (2 duty, 1 standby)
